@@ -6,7 +6,6 @@
 package org.example;
 import java.util.Scanner;
 
- // TODO: Use as few output statements as possible and avoid repeating output strings.
 public class App
 {
     public static void main( String[] args )
